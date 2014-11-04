@@ -1,0 +1,12 @@
+[root]
+name = "29"
+version = "0.0.1"
+dependencies = [
+ "num 0.0.1 (git+https://github.com/rust-lang/num)",
+]
+
+[[package]]
+name = "num"
+version = "0.0.1"
+source = "git+https://github.com/rust-lang/num#3ac6af6b2de299f0bea43f91648f74eaf5b71e49"
+
