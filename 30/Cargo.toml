@@ -1,0 +1,9 @@
+[package]
+
+name = "30"
+version = "0.0.1"
+authors = ["Cory Forsyth <cory.forsyth@gmail.com>"]
+
+[dependencies.num]
+
+git = "https://github.com/rust-lang/num"
